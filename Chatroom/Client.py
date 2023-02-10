@@ -8,7 +8,7 @@ from tkinter import ttk     #
 
 PORT = 8080                 # set port for server connection
 
-//Put in the public ip address of the host here
+#Put in the public ip address of the host here
 SERVER = "127.0.0.1"     # static server ip address
 
 ADDRESS = (SERVER, PORT)   # set address for server as tuple
